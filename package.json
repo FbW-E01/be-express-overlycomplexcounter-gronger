@@ -1,0 +1,17 @@
+{
+  "name": "be-express-overlycomplexcounter-gronger",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-express-overlycomplexcounter-gronger.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-express-overlycomplexcounter-gronger/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-express-overlycomplexcounter-gronger#readme"
+}
